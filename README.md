@@ -72,7 +72,7 @@ pip install gtts pygame gpiozero lgpio
 
 **Run the Python Code**
 ```
-python gva7_led.py
+python rasby.py
 ```
 Press "Ctrl + C" on your keyboard to exit from a running Python program.
 
