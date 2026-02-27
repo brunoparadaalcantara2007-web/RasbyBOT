@@ -42,7 +42,7 @@ sudo apt upgrade
 
 **Install a Firewall for the Raspberry Pi**
 ```
-bashsudo apt install ufw
+sudo apt install ufw
 sudo ufw allow ssh
 sudo ufw enable
 ```
