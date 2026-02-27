@@ -17,13 +17,14 @@ https://www.raspberrypi.com/software/
 
 # Programs
 I am using 3 external programs to carry out the project:
-MobaXterm (SSH connection)
+
+**MobaXterm** (SSH connection)
 https://mobaxterm.mobatek.net/download.html
 
-IP Advanced Scanner (to locate the Raspbian IP address)
+**IP Advanced Scanner** (to locate the Raspbian IP address)
 https://www.advanced-ip-scanner.com/es/download/
 
-RealVNC (virtual interface)
+**RealVNC** (virtual interface)
 https://www.realvnc.com/es/?lai_vid=krB6gaW5kHqzD&lai_sr=0-4&lai_sl=l
 
 # Steps to follow
